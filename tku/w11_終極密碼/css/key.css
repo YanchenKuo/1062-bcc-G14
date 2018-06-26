@@ -1,8 +1,8 @@
 #bombs{
     border: 10px solid purple;
     text-align:center;
-    width: 350px;
-    
+    width: 650px;
+  
     
 }
 
@@ -11,6 +11,7 @@
 }
 
 #bombs img{
-    width: 50px;
+    width: 100px;
     margin: 0px 10px 0px 10px;
+    
 }

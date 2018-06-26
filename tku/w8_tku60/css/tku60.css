@@ -1,5 +1,5 @@
 #tku60 {
-    width: 936px;
+    width: 1036px;
     height: 486px;
     background-color: blue;
     border: 3px solid black;
@@ -13,7 +13,7 @@
 }
 
 #tku60 #aside {
-    width: 300px;
+    width: 400px;
     height: 100%;
     background-color: #000066;
     float: right;
